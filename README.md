@@ -16,7 +16,7 @@
 
 - 📫 Email: **amardwivedi792@gmail.com**
 
-- 📄My Resume: [Click Here](https://drive.google.com/drive/u/0/folders/17wedvarB1shCStSkqDTBxgoKLEU22elD)
+- 📄My Resume: [Click Here](https://drive.google.com/file/d/1lW5SEdD5gCXz690fLd0FqOVGw78ua98T/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
