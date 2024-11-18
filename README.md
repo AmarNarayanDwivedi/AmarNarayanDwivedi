@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking **Internship|Job**
 
-- 👨‍💻 My Portfolio: [https://www.linkedin.com/home?originalsubdomain=in](https://www.linkedin.com/home?originalsubdomain=in)
+- 👨‍💻 My Portfolio: [[https://www.linkedin.com/home?originalsubdomain=in](https://amarnarayandwivedi.github.io/My-Portfolio/)]
 
 - 📫 Email: **amardwivedi792@gmail.com**
 
