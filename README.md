@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking **Internship|Job**
 
-- 👨‍💻 My Portfolio: [Click(https://amarnarayandwivedi.github.io/My-Portfolio/)]
+- 👨‍💻 My Portfolio: [Click](https://amarnarayandwivedi.github.io/My-Portfolio/)
 
 - 📫 Email: **amardwivedi792@gmail.com**
 
